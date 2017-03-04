@@ -1,7 +1,13 @@
+'''
+Code for Dirichlet Process Mixture. 
+
+Author: Yu Han (yhanthu@gmail.com)
+
+'''
+
 import math
 import random
 import time
-
 
 #####################    Data Generation    ################################
 x=[]
